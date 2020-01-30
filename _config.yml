@@ -1,11 +1,11 @@
 # Site settings
-author: Ola Enol
-title: 
+author: Ola Bakar
+title: Why Studying Software Engineering
 header-img: img/home-bg.png
 email: eniolar10@gmail.com
-copyright_name: Ola Enol
+copyright_name: Ola Bakar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Global Value
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  eniolar10
